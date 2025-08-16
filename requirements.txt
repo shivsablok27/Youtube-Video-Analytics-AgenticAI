@@ -1,0 +1,8 @@
+python-dotenv
+google-api-python-client
+crewai
+litellm
+langchain-google-genai
+isodate
+streamlit
+pandas
