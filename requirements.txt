@@ -1,6 +1,6 @@
 python-dotenv
 google-api-python-client
-crewai==0.130.0
+crewai
 litellm
 langchain-google-genai
 isodate
