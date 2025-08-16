@@ -6,3 +6,4 @@ langchain-google-genai
 isodate
 streamlit
 pandas
+pysqlite3-binary
