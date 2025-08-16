@@ -1,9 +1,8 @@
 python-dotenv
 google-api-python-client
-crewai
+crewai==0.130.0
 litellm
 langchain-google-genai
 isodate
 streamlit
 pandas
-pysqlite3-binary
